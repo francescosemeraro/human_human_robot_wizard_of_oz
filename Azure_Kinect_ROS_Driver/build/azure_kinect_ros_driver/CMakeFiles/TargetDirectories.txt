@@ -1,0 +1,10 @@
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/uninstall.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/azure_kinect_ros_driver_uninstall.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/azure_kinect_ros_driver_node.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/test.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/edit_cache.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/rebuild_cache.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/list_install_components.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/install.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/install/local.dir
+/home/francesco/humble_ws/src/Azure_Kinect_ROS_Driver/build/azure_kinect_ros_driver/CMakeFiles/install/strip.dir
